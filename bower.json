@@ -1,0 +1,30 @@
+{
+  "name": "jquery.paralax-bg",
+  "version": "1.0",
+  "main": "js/jquery.paralax-bg.js",
+  "dependencies": {
+    "jquery": ">=1.8.0"
+  },
+  "homepage": "https://github.com/hdenguir/paralax-bg",
+  "_release": "1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0",
+    "commit": ""
+  },
+  "_source": "https://github.com/hdenguir/paralax-bg.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/hdenguir/paralax-bg.git",
+  "authors": [
+    "hafid denguir <h.denguir@void.fr>"
+  ],
+  "description": "jquery pralax-bg",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
