@@ -1,3 +1,8 @@
+/**
+ * Author: Hafid Denguir // @hafid2com
+ * jQuery Simple Parallax Plugin
+ *
+ */
 (function($) {
  
         $.fn.parallax = function(options) {
